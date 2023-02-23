@@ -15,11 +15,11 @@
     "validateDefaultErrno": 1001,
     "default_module": "api",
     "weixin": {
-      "appid": "wxaf4c8a4bd4915438",
-      "secret": "f5bc9053c293567ff7c9d9b5665446ea",
+      "appid": "wx7af111110000000",
+      "secret": "cb8e5adce569f9bddce5b8123123e1115aaddce505",
       "mch_id": "15988888888",
       "partner_key": "asdasdasdasdasdasdasd",
-      "notify_url": "https://www.hiolabs.com/api/pay/notify"
+      "notify_url": "https://www.您的域名.com/api/pay/notify"
     },
     "express": {
       "appid": "12312312",
@@ -64,8 +64,8 @@
     "model": {
       "type": "mysql",
       "mysql": {
-        "logConnect": true,
-        "logSql": true,
+        "logConnect": false,
+        "logSql": false,
         "database": "yifeitest",
         "prefix": "hiolabs_",
         "encoding": "utf8mb4",
@@ -77,7 +77,7 @@
       }
     },
     "logger": {
-      "type": "console",
+      "type": "dateFile",
       "console": {},
       "file": {
         "backups": 10,
@@ -119,11 +119,11 @@
     "validateDefaultErrno": 1001,
     "default_module": "api",
     "weixin": {
-      "appid": "wxaf4c8a4bd4915438",
-      "secret": "f5bc9053c293567ff7c9d9b5665446ea",
+      "appid": "wx7af111110000000",
+      "secret": "cb8e5adce569f9bddce5b8123123e1115aaddce505",
       "mch_id": "15988888888",
       "partner_key": "asdasdasdasdasdasdasd",
-      "notify_url": "https://www.hiolabs.com/api/pay/notify"
+      "notify_url": "https://www.您的域名.com/api/pay/notify"
     },
     "express": {
       "appid": "12312312",
@@ -186,8 +186,8 @@
     "model": {
       "type": "mysql",
       "mysql": {
-        "logConnect": true,
-        "logSql": true,
+        "logConnect": false,
+        "logSql": false,
         "database": "yifeitest",
         "prefix": "hiolabs_",
         "encoding": "utf8mb4",
@@ -199,7 +199,7 @@
       }
     },
     "logger": {
-      "type": "console",
+      "type": "dateFile",
       "console": {},
       "file": {
         "backups": 10,
@@ -241,11 +241,11 @@
     "validateDefaultErrno": 1001,
     "default_module": "api",
     "weixin": {
-      "appid": "wxaf4c8a4bd4915438",
-      "secret": "f5bc9053c293567ff7c9d9b5665446ea",
+      "appid": "wx7af111110000000",
+      "secret": "cb8e5adce569f9bddce5b8123123e1115aaddce505",
       "mch_id": "15988888888",
       "partner_key": "asdasdasdasdasdasdasd",
-      "notify_url": "https://www.hiolabs.com/api/pay/notify"
+      "notify_url": "https://www.您的域名.com/api/pay/notify"
     },
     "express": {
       "appid": "12312312",
@@ -290,8 +290,8 @@
     "model": {
       "type": "mysql",
       "mysql": {
-        "logConnect": true,
-        "logSql": true,
+        "logConnect": false,
+        "logSql": false,
         "database": "yifeitest",
         "prefix": "hiolabs_",
         "encoding": "utf8mb4",
@@ -303,7 +303,7 @@
       }
     },
     "logger": {
-      "type": "console",
+      "type": "dateFile",
       "console": {},
       "file": {
         "backups": 10,
