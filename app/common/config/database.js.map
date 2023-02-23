@@ -1,0 +1,26 @@
+{
+    "version": 3,
+    "sources": [
+        "..\\..\\..\\src\\common\\config\\database.js"
+    ],
+    "names": [
+        "mysql",
+        "require",
+        "module",
+        "exports",
+        "handle",
+        "database",
+        "prefix",
+        "encoding",
+        "host",
+        "port",
+        "user",
+        "password",
+        "dateStrings"
+    ],
+    "mappings": "AAAA,MAAMA,QAAQC,QAAQ,mBAAR,CAAd;;AAEAC,OAAOC,OAAP,GAAiB;AACbC,YAAQJ,KADK;AAEbK,cAAU,WAFG;AAGbC,YAAQ,UAHK;AAIbC,cAAU,SAJG;AAKbC,UAAM,eALO;AAMbC,UAAM,OANO;AAObC,UAAM,YAPO;AAQbC,cAAU,UARG;AASbC,iBAAa;AATA,CAAjB",
+    "file": "..\\..\\..\\src\\common\\config\\database.js",
+    "sourcesContent": [
+        "const mysql = require('think-model-mysql');\r\n\r\nmodule.exports = {\r\n    handle: mysql,\r\n    database: 'yifeitest',\r\n    prefix: 'hiolabs_',\r\n    encoding: 'utf8mb4',\r\n    host: '8.219.145.193',\r\n    port: '23306',\r\n    user: 'dndwartest',\r\n    password: '1qazxsw2',\r\n    dateStrings: true\r\n};\r\n"
+    ]
+}
