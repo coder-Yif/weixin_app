@@ -7,3 +7,4 @@ module.exports = class extends think.Logic {
     };
   }
 };
+//# sourceMappingURL=auth.js.map

@@ -306,3 +306,4 @@ module.exports = class extends think.Service {
         })();
     }
 };
+//# sourceMappingURL=weixin.js.map

@@ -11,3 +11,4 @@ module.exports = {
     password: '1qazxsw2',
     dateStrings: true
 };
+//# sourceMappingURL=database.js.map

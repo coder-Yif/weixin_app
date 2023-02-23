@@ -51,3 +51,4 @@ module.exports = class extends think.Model {
         })();
     }
 };
+//# sourceMappingURL=cart.js.map

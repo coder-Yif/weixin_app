@@ -30,3 +30,4 @@ module.exports = class extends think.Model {
         })();
     }
 };
+//# sourceMappingURL=shipper.js.map

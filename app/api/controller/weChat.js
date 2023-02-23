@@ -93,3 +93,4 @@ module.exports = class extends Base {
         })();
     }
 };
+//# sourceMappingURL=weChat.js.map

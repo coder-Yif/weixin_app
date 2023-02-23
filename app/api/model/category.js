@@ -20,3 +20,4 @@ module.exports = class extends think.Model {
     })();
   }
 };
+//# sourceMappingURL=category.js.map

@@ -26,3 +26,4 @@ module.exports = class extends think.Service {
         })();
     }
 };
+//# sourceMappingURL=qiniu.js.map

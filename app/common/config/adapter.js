@@ -76,3 +76,4 @@ exports.view = {
         }
     }
 };
+//# sourceMappingURL=adapter.js.map

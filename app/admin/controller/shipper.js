@@ -568,3 +568,4 @@ module.exports = class extends Base {
 		})();
 	}
 };
+//# sourceMappingURL=shipper.js.map

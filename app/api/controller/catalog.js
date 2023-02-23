@@ -69,3 +69,4 @@ module.exports = class extends Base {
         })();
     }
 };
+//# sourceMappingURL=catalog.js.map

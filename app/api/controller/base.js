@@ -29,3 +29,4 @@ module.exports = class extends think.Controller {
 		return tokenSerivce.getUserId(token);
 	}
 };
+//# sourceMappingURL=base.js.map

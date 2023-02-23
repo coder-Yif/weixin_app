@@ -61,3 +61,4 @@ module.exports = class extends think.Service {
         })();
     }
 };
+//# sourceMappingURL=token.js.map

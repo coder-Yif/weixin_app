@@ -131,3 +131,4 @@ module.exports = class extends Base {
         })();
     }
 };
+//# sourceMappingURL=goods.js.map

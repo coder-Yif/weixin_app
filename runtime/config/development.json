@@ -56,7 +56,7 @@
       "type": "file",
       "file": {
         "timeout": 86400000,
-        "cachePath": "C:\\Users\\Admin\\Desktop\\hioshop-server\\runtime\\cache",
+        "cachePath": "C:\\Users\\Admin\\Desktop\\weixin_app\\runtime\\cache",
         "pathDepth": 1,
         "gcInterval": 86400000
       }
@@ -83,20 +83,20 @@
         "backups": 10,
         "absolute": true,
         "maxLogSize": 51200,
-        "filename": "C:\\Users\\Admin\\Desktop\\hioshop-server\\logs\\app.log"
+        "filename": "C:\\Users\\Admin\\Desktop\\weixin_app\\logs\\app.log"
       },
       "dateFile": {
         "level": "ALL",
         "absolute": true,
         "pattern": "-yyyy-MM-dd",
         "alwaysIncludePattern": true,
-        "filename": "C:\\Users\\Admin\\Desktop\\hioshop-server\\logs\\app.log"
+        "filename": "C:\\Users\\Admin\\Desktop\\weixin_app\\logs\\app.log"
       }
     },
     "view": {
       "type": "nunjucks",
       "nunjucks": {
-        "viewPath": "C:\\Users\\Admin\\Desktop\\hioshop-server\\view",
+        "viewPath": "C:\\Users\\Admin\\Desktop\\weixin_app\\view",
         "sep": "_",
         "extname": ".html",
         "options": {}
@@ -178,7 +178,7 @@
       "type": "file",
       "file": {
         "timeout": 86400000,
-        "cachePath": "C:\\Users\\Admin\\Desktop\\hioshop-server\\runtime\\cache",
+        "cachePath": "C:\\Users\\Admin\\Desktop\\weixin_app\\runtime\\cache",
         "pathDepth": 1,
         "gcInterval": 86400000
       }
@@ -205,20 +205,20 @@
         "backups": 10,
         "absolute": true,
         "maxLogSize": 51200,
-        "filename": "C:\\Users\\Admin\\Desktop\\hioshop-server\\logs\\app.log"
+        "filename": "C:\\Users\\Admin\\Desktop\\weixin_app\\logs\\app.log"
       },
       "dateFile": {
         "level": "ALL",
         "absolute": true,
         "pattern": "-yyyy-MM-dd",
         "alwaysIncludePattern": true,
-        "filename": "C:\\Users\\Admin\\Desktop\\hioshop-server\\logs\\app.log"
+        "filename": "C:\\Users\\Admin\\Desktop\\weixin_app\\logs\\app.log"
       }
     },
     "view": {
       "type": "nunjucks",
       "nunjucks": {
-        "viewPath": "C:\\Users\\Admin\\Desktop\\hioshop-server\\view",
+        "viewPath": "C:\\Users\\Admin\\Desktop\\weixin_app\\view",
         "sep": "_",
         "extname": ".html",
         "options": {}
@@ -282,7 +282,7 @@
       "type": "file",
       "file": {
         "timeout": 86400000,
-        "cachePath": "C:\\Users\\Admin\\Desktop\\hioshop-server\\runtime\\cache",
+        "cachePath": "C:\\Users\\Admin\\Desktop\\weixin_app\\runtime\\cache",
         "pathDepth": 1,
         "gcInterval": 86400000
       }
@@ -309,20 +309,20 @@
         "backups": 10,
         "absolute": true,
         "maxLogSize": 51200,
-        "filename": "C:\\Users\\Admin\\Desktop\\hioshop-server\\logs\\app.log"
+        "filename": "C:\\Users\\Admin\\Desktop\\weixin_app\\logs\\app.log"
       },
       "dateFile": {
         "level": "ALL",
         "absolute": true,
         "pattern": "-yyyy-MM-dd",
         "alwaysIncludePattern": true,
-        "filename": "C:\\Users\\Admin\\Desktop\\hioshop-server\\logs\\app.log"
+        "filename": "C:\\Users\\Admin\\Desktop\\weixin_app\\logs\\app.log"
       }
     },
     "view": {
       "type": "nunjucks",
       "nunjucks": {
-        "viewPath": "C:\\Users\\Admin\\Desktop\\hioshop-server\\view",
+        "viewPath": "C:\\Users\\Admin\\Desktop\\weixin_app\\view",
         "sep": "_",
         "extname": ".html",
         "options": {}

@@ -31,3 +31,4 @@ module.exports = class extends Base {
     }
 
 };
+//# sourceMappingURL=shopcart.js.map

@@ -48,3 +48,4 @@ module.exports = {
         // deliveryTemplate:
     }
 };
+//# sourceMappingURL=config.js.map

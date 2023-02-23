@@ -57,3 +57,4 @@ module.exports = class extends Base {
         })();
     }
 };
+//# sourceMappingURL=footprint.js.map

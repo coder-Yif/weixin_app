@@ -10,3 +10,4 @@ module.exports = [{
     immediate: true,
     handle: "crontab/resetSql"
 }];
+//# sourceMappingURL=crontab.js.map

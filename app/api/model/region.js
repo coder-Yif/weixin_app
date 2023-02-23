@@ -107,3 +107,4 @@ module.exports = class extends think.Model {
         })();
     }
 };
+//# sourceMappingURL=region.js.map

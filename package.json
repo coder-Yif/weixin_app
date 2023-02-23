@@ -45,7 +45,7 @@
     "eslint": "^4.2.0",
     "eslint-config-think": "^1.0.0"
   },
-  "repository": "",
+  "private": true,
   "license": "MIT",
   "engines": {
     "node": ">=6.0.0"

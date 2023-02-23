@@ -57,3 +57,4 @@ module.exports = class extends Base {
         })();
     }
 };
+//# sourceMappingURL=region.js.map

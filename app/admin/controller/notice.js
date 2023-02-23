@@ -91,3 +91,4 @@ module.exports = class extends Base {
         })();
     }
 };
+//# sourceMappingURL=notice.js.map

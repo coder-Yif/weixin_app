@@ -35,3 +35,4 @@ module.exports = [{
         defaultAction: 'index'
     }
 }, 'logic', 'controller'];
+//# sourceMappingURL=middleware.js.map

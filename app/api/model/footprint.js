@@ -31,3 +31,4 @@ module.exports = class extends think.Model {
         })();
     }
 };
+//# sourceMappingURL=footprint.js.map

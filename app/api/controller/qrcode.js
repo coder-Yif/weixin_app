@@ -72,3 +72,4 @@ module.exports = class extends Base {
         })();
     }
 };
+//# sourceMappingURL=qrcode.js.map
