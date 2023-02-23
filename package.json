@@ -45,7 +45,10 @@
     "eslint": "^4.2.0",
     "eslint-config-think": "^1.0.0"
   },
-  "private": true,
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/coder-Yif/weixin_app.git"
+  },
   "license": "MIT",
   "engines": {
     "node": ">=6.0.0"
